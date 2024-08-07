@@ -1,6 +1,6 @@
 Hello, I'm Eduardo
 - 🔭 I’m currently studying Computer programming 
-- 🌱 I’m currently learning front end and back end
+- 📒 I’m currently learning front end and back end
   
 <div style="display: inline_block"><br>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
