@@ -1,4 +1,5 @@
-# Hello, I'm Eduardo
+# ![Eduardo Vizicato - Back-End Developer](./images/Banner.png)
+
 
 I'm fluent in english<br>
 Grade B in B1 preliminary<br><br>
