@@ -22,6 +22,10 @@ Student with the best course development
   <img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />    
 </div>
 
+
+# 
+[![trophy](https://github-profile-trophy.vercel.app/?username=EduardoVizicato&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EduardoVizicato&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVizicato&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
