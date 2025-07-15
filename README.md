@@ -1,4 +1,5 @@
-# ![Eduardo Vizicato - Back-End Developer](./images/Banner.png)
+<img src="/images/Banner.png" width="1000px" height="500px"/>
+
 
 
 I'm fluent in english<br>
