@@ -22,6 +22,23 @@ Student with the best course development
 
 # Stats
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoVizicato&show_icons=true&count_private=true&hide_border=true&title_color=A27B5C&icon_color=3F4E4F&text_color=DCD7C9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVizicato&layout=compact&hide_border=true&title_color=A27B5C&text_color=DCD7C9&bg_color=0d1117" />
+
+
+<img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=EduardoVizicato&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/>
+<img width="33%" 
+  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=EduardoVizicato&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+
+
+</div>
+
+<div align="center">
+
+<img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=EduardoVizicato" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoVizicato&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
 </div>
