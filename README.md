@@ -36,9 +36,3 @@ Student with the best course development
 <img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=EduardoVizicato" alt="GitHub Streak"/>
 
 </div>
-
-<div align="center">
-
-<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoVizicato&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
-</div>
